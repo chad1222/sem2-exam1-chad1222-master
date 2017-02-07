@@ -5,7 +5,6 @@ def AddTen(n):
     return n
 print ()
 
-"""
 
 l = 14
 w = 20
@@ -16,7 +15,7 @@ def DrawRectangle(trump, l, w):
         trump.forward(w)
 DrawRectangle (trump, l, w)
 
-"""
+
 
 def Drawploy(exam, n):
     for i in range (12):

@@ -14,3 +14,4 @@ n = int(input())
 for i in range(n, 10):
     n = n + 10
     print(n)
+""
